@@ -1,0 +1,57 @@
+.heading{
+  background-color:black;
+  color:black;
+  margin:10px;
+  width:99%;
+  border-radius: 20px;
+  padding-top: 20px;
+  font-family: 'Space Grotesk', sans-serif;
+  box-shadow: 15px 15px 10px green;
+}
+
+.heading_div{
+  background-color:white;
+  color:black;
+  width:80%;
+  border-radius: 100px;
+  font-family: 'Space Grotesk', sans-serif;
+  box-shadow: 15px 15px 10px red;
+
+}
+
+#bold{
+  background-color:white;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border-radius: 15px;
+}
+
+.result_para_tag{
+  background-color:black;
+  color:white;
+  width:30%;
+  border-radius: 100px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 20px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.copy_right_footer{
+  bottom:0;
+  position:fixed;
+  text-align: center;
+  width: 100%;
+  background-color:black;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 20px;
+  color:white;
+  line-height: 2;
+}
+
+canvas{
+  border: 5px solid black;
+  margin-top: 180px;
+}
